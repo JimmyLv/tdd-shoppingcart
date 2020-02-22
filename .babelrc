@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [
+      "babel-preset-umi",
+      {
+        "targets": {
+          "browsers": ["last 2 versions"]
+        }
+      }
+    ]
+  ],
+  "plugins": [["@babel/transform-runtime"]]
+}
