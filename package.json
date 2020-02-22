@@ -31,6 +31,7 @@
     "dayjs": "^1.8.19",
     "dva": "^2.6.0-beta.6",
     "eslint-plugin-flowtype": "^4.5.2",
+    "jest": "^25.1.0",
     "js-cookie": "^2.2.1",
     "lodash": "^4.17.15",
     "marked": "^0.8.0",
