@@ -29,10 +29,13 @@ yarn test
 // 运行单元测试
 yarn test:unit
 
+// 运行Storybook
+yarn storybook
+
 // 运行 e2e 测试(命令行)
 yarn test:e2e
 // 运行 e2e 测试(GUI)
-yarn cy:oopen 
+yarn cy:open 
 ```
 
 ## 技术栈
