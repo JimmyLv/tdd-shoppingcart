@@ -22,7 +22,7 @@ export default {
         dva: true,
         dynamicImport: { webpackChunkName: true },
         dll: false,
-        title: '科举系统',
+        title: '前端 TDD 练功房',
 
         routes: {
           exclude: [
